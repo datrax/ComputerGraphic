@@ -1,0 +1,6 @@
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

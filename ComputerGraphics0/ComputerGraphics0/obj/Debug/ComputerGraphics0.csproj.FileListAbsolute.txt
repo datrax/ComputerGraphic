@@ -7,3 +7,12 @@ C:\Users\datra\Documents\Visual Studio 2015\Projects\Matches\ComputerGraphics0\C
 C:\Users\datra\Documents\Visual Studio 2015\Projects\Matches\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.csproj.GenerateResource.Cache
 C:\Users\datra\Documents\Visual Studio 2015\Projects\Matches\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.exe
 C:\Users\datra\Documents\Visual Studio 2015\Projects\Matches\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.pdb
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\bin\Debug\ComputerGraphics0.exe.config
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.exe
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.pdb
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\bin\Debug\ComputerGraphics0.exe
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\bin\Debug\ComputerGraphics0.pdb
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.csprojResolveAssemblyReference.cache
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.Form1.resources
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.Properties.Resources.resources
+C:\Users\datra\Documents\GitHub\ComputerGraphic\ComputerGraphics0\ComputerGraphics0\obj\Debug\ComputerGraphics0.csproj.GenerateResource.Cache
